@@ -2,7 +2,7 @@
 
 ![](https://github.com/pxiangwu/TopoFilter/blob/master/figs/intro.png)
 
-**Note: We fixed a typo in Algorithm 1. Please refer to our arXiv version for the update.**
+**Note: We fixed a typo in Algorithm 1. Please refer to our [arXiv version](https://arxiv.org/pdf/2012.04835.pdf) for the update.**
 
 ## Requirements
 - PyTorch 0.4.1 (have not tested on other versions)
@@ -47,4 +47,6 @@ _Our code will be further improved to make it cleaner and easier to use._
   year={2020}
 }
 ```
+## Related Works:
 
+- Error-Bounded Correction of Noisy Labels. [[Paper]](https://arxiv.org/pdf/2011.10077.pdf)[[Code]](https://github.com/pingqingsheng/LRT)
