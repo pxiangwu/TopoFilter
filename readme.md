@@ -1,6 +1,8 @@
-## A Topological Filter for Learning with Label Noise (NeurIPS 2020, [Paper](https://proceedings.neurips.cc/paper/2020/file/f4e3ce3e7b581ff32e40968298ba013d-Paper.pdf))
+## A Topological Filter for Learning with Label Noise (NeurIPS 2020, [Paper](https://arxiv.org/pdf/2012.04835.pdf))
 
 ![](https://github.com/pxiangwu/TopoFilter/blob/master/figs/intro.png)
+
+**Note: We fixed a typo in Algorithm 1. Please refer to our arXiv version for the update.**
 
 ## Requirements
 - PyTorch 0.4.1 (have not tested on other versions)
