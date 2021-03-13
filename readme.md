@@ -46,5 +46,5 @@ _Our code will be further improved to make it cleaner and easier to use._
 ```
 ## Related Works:
 
-- Error-Bounded Correction of Noisy Labels. [[Paper]](https://arxiv.org/pdf/2011.10077.pdf)[[Code]](https://github.com/pingqingsheng/LRT)
-- Learning with Feature Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
+- Error-Bounded Correction of Noisy Labels. In *ICML*, 2020. [[Paper]](https://arxiv.org/pdf/2011.10077.pdf)[[Code]](https://github.com/pingqingsheng/LRT)
+- Learning with Feature Dependent Label Noise: A Progressive Approach. In *ICLR*, 2021. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
